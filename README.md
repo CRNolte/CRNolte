@@ -2,7 +2,7 @@
 - 👀 I’m interested in Biology
 - 🌱 I’m currently learning how to be better at coding
 - 💞️ I’m looking to collaborate on fun science projects
-- 📫 How to reach me Twitter @CRNolte
+- 📫 How to reach me: Twitter @CRNolte
 
 <!---
 CRNolte/CRNolte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
